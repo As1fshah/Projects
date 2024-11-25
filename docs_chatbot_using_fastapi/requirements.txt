@@ -1,0 +1,11 @@
+streamlit 
+google-generativeai
+langchain-google-genai
+langchain
+python-dotenv
+PyPDF2
+qdrant-client
+python-docx
+fastapi 
+uvicorn
+fastapi[standard]
