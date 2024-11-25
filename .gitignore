@@ -1,4 +1,4 @@
 /inSight/.env
-/docs_chatbot_using_streamlit/.env
-/docs_chatbot_using_streamlit/faiss_index
-/docs_chatbot_using_fastapi/.env
+/Docs_chatbot_using_streamlit/.env
+/Docs_chatbot_using_streamlit/faiss_index
+/Docs_chatbot_using_fastapi/.env
